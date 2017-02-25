@@ -1,15 +1,31 @@
-[16:38:06] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[16:38:06] [Server thread/INFO]: Loading properties
-[16:38:06] [Server thread/INFO]: Default game type: SURVIVAL
-[16:38:06] [Server thread/INFO]: Generating keypair
-[16:38:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:38:06] [Server thread/INFO]: Using epoll channel type
-[16:38:07] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[16:38:07] [Server thread/INFO]: Preparing level "world"
-[16:38:07] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[16:38:08] [Server thread/INFO]: Preparing spawn area: 10%
-[16:38:09] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[16:38:10] [Server thread/INFO]: Preparing spawn area: 89%
-[16:38:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[16:38:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:38:10] [Server thread/INFO]: Done (3,426s)! For help, type "help" or "?"
+[17:02:18] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[17:02:18] [Server thread/INFO]: Loading properties
+[17:02:18] [Server thread/INFO]: Default game type: SURVIVAL
+[17:02:18] [Server thread/INFO]: Generating keypair
+[17:02:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:02:18] [Server thread/INFO]: Using epoll channel type
+[17:02:18] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[17:02:18] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[17:02:18] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
+[17:02:18] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:02:18] [Server thread/INFO]: Preparing level "world"
+[17:02:19] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
+[17:02:20] [Server thread/INFO]: Preparing spawn area: 27%
+[17:02:20] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
+[17:02:21] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
+[17:02:21] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[17:02:22] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[17:02:22] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[17:02:22] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[17:02:22] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:02:22] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[17:02:22] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[17:02:22] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[17:02:22] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
+[17:02:22] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[17:02:22] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[17:02:22] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[17:02:22] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[17:02:22] [Server thread/INFO]: [dynmap] Enabled
+[17:02:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:02:22] [Server thread/INFO]: Done (4,134s)! For help, type "help" or "?"
