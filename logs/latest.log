@@ -1,40 +1,173 @@
-[01:17:30] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[01:17:30] [Server thread/INFO]: Loading properties
-[01:17:30] [Server thread/INFO]: Default game type: SURVIVAL
-[01:17:30] [Server thread/INFO]: Generating keypair
-[01:17:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:17:31] [Server thread/INFO]: Using epoll channel type
-[01:17:31] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[01:17:31] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[01:17:31] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
-[01:17:31] [Server thread/INFO]: [dynmap] Mod Support API available
-[01:17:31] [Server thread/INFO]: Preparing level "world"
-[01:17:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[01:17:32] [Server thread/INFO]: Preparing spawn area: 38%
-[01:17:33] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[01:17:34] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[01:17:34] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[01:17:34] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[01:17:34] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[01:17:34] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[01:17:34] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[01:17:35] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[01:17:35] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[01:17:35] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[01:17:35] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
-[01:17:35] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[01:17:35] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[01:17:35] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[01:17:35] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[01:17:35] [Server thread/INFO]: [dynmap] Enabled
-[01:17:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:17:35] [Server thread/INFO]: Done (4,163s)! For help, type "help" or "?"
-[01:17:39] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[01:17:39] [Server thread/INFO]: Arktas[/192.168.1.1:59426] logged in with entity id 147 at ([world]635.0705474424772, 75.0, -8.801768397959147)
-[01:19:06] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[01:43:15] [Server thread/INFO]: Arktas lost connection: Disconnected
-[01:43:15] [Server thread/INFO]: Arktas left the game
-[11:28:28] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[11:28:28] [Server thread/INFO]: Arktas[/192.168.1.1:49489] logged in with entity id 35726 at ([world]647.2783086468655, 16.0, -52.576489337379314)
-[11:31:33] [Server thread/INFO]: Arktas lost connection: Disconnected
-[11:31:33] [Server thread/INFO]: Arktas left the game
+[17:02:18] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[17:02:18] [Server thread/INFO]: Loading properties
+[17:02:18] [Server thread/INFO]: Default game type: SURVIVAL
+[17:02:18] [Server thread/INFO]: Generating keypair
+[17:02:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:02:18] [Server thread/INFO]: Using epoll channel type
+[17:02:18] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[17:02:18] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[17:02:18] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
+[17:02:18] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:02:18] [Server thread/INFO]: Preparing level "world"
+[17:02:19] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
+[17:02:20] [Server thread/INFO]: Preparing spawn area: 5%
+[17:02:21] [Server thread/INFO]: Preparing spawn area: 90%
+[17:02:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
+[17:02:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
+[17:02:22] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[17:02:22] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[17:02:22] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[17:02:22] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[17:02:22] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:02:23] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[17:02:23] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[17:02:23] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[17:02:23] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
+[17:02:23] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[17:02:23] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[17:02:23] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[17:02:23] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[17:02:23] [Server thread/INFO]: [dynmap] Enabled
+[17:02:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:02:23] [Server thread/INFO]: Done (4,804s)! For help, type "help" or "?"
+[17:02:35] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[17:02:36] [Server thread/INFO]: Arktas[/192.168.1.1:50506] logged in with entity id 148 at ([world]646.5615181984908, 16.0, -53.58815248323425)
+[17:03:24] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[17:38:22] [User Authenticator #2/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[17:38:23] [Server thread/INFO]: mimikerry[/89.93.95.146:51489] logged in with entity id 38552 at ([world]575.5844656454043, 67.0, -34.05548367034942)
+[17:52:20] [User Authenticator #3/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[17:52:20] [Server thread/INFO]: WegPast[/89.93.95.146:56473] logged in with entity id 55550 at ([world]637.3920071756984, 76.0, -10.215038008333714)
+[17:58:12] [Server thread/INFO]: WegPast lost connection: Disconnected
+[17:58:12] [Server thread/INFO]: WegPast left the game
+[18:00:51] [Server thread/INFO]: Arktas lost connection: Internal Exception: java.io.IOException: Error while read(...): Connexion ré-initialisée par le correspondant
+[18:00:51] [Server thread/INFO]: Arktas left the game
+[18:00:58] [User Authenticator #4/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[18:00:58] [Server thread/INFO]: Arktas[/192.168.1.1:50782] logged in with entity id 66943 at ([world]542.7961274873936, 85.0, -114.35960101952517)
+[18:01:00] [Server thread/INFO]: mimikerry lost connection: Timed out
+[18:01:00] [Server thread/INFO]: mimikerry left the game
+[18:01:03] [User Authenticator #5/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[18:01:03] [Server thread/INFO]: mimikerry[/89.93.95.146:51518] logged in with entity id 67222 at ([world]571.9345000145702, 73.0, -24.699999988079036)
+[18:07:35] [User Authenticator #6/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[18:07:35] [Server thread/INFO]: WegPast[/89.93.95.146:51327] logged in with entity id 73502 at ([world]569.626722578847, 71.0, -28.188094591215844)
+[18:36:17] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[18:36:17] [Server thread/INFO]: mimikerry left the game
+[18:57:57] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[18:57:57] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[19:04:44] [Server thread/INFO]: WegPast lost connection: Disconnected
+[19:04:44] [Server thread/INFO]: WegPast left the game
+[19:10:41] [User Authenticator #7/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[19:10:41] [Server thread/INFO]: mimikerry[/89.93.95.146:51916] logged in with entity id 170832 at ([world]523.5803996487354, 92.0, -125.8699512533057)
+[19:37:08] [Netty Epoll Server IO #0/INFO]: <mimikerry> j'avais pas vu que tu étais là ^^[m
+[19:37:12] [Netty Epoll Server IO #2/INFO]: <Arktas> ^^[m
+[19:43:38] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[19:43:38] [Server thread/INFO]: mimikerry left the game
+[20:24:53] [User Authenticator #8/INFO]: UUID of player Kaziel is 1298a88e-3dcd-4b9f-842e-b99b4aef265f
+[20:24:53] [Server thread/INFO]: Kaziel[/92.88.255.133:55040] logged in with entity id 263718 at ([world]699.6999999880791, 18.419999986886978, 4.67686562844543)
+[20:31:36] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[20:31:36] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[20:36:45] [User Authenticator #9/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[20:36:45] [Server thread/INFO]: mimikerry[/89.93.95.146:52170] logged in with entity id 287516 at ([world]615.9938504214961, 69.0, -70.90104316817371)
+[20:41:07] [Netty Epoll Server IO #1/INFO]: <mimikerry> tu les ranges où tes plumes et tes cuisses de poulet ?[m
+[20:41:20] [Netty Epoll Server IO #3/INFO]: <Kaziel> nul part[m
+[20:41:40] [Netty Epoll Server IO #1/INFO]: <mimikerry> je les emmène à la ferme donc =)[m
+[20:42:10] [Netty Epoll Server IO #3/INFO]: <Kaziel> par contre faut toujours en laisser 1 dans chaque case du coffre[m
+[20:42:16] [Netty Epoll Server IO #3/INFO]: <Kaziel> pour que ça stack[m
+[20:43:40] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[20:43:40] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[20:52:53] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[20:52:53] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[20:53:40] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[20:53:40] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[20:54:15] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[20:54:15] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[20:55:01] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[20:55:01] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[20:55:36] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[20:55:36] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[20:56:38] [User Authenticator #10/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[20:56:38] [Server thread/INFO]: WegPast[/89.93.95.146:49549] logged in with entity id 339688 at ([world]641.0425761335653, 76.0, -10.476872999001195)
+[20:57:17] [Netty Epoll Server IO #1/INFO]: <mimikerry> vous avez besoin d'aide pour le chatal ?[m
+[20:58:09] [Netty Epoll Server IO #3/INFO]: <WegPast> go ts bande de suceur de mouche ![m
+[21:06:33] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[21:06:33] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[21:06:50] [Netty Epoll Server IO #1/INFO]: <mimikerry> il ya de l'orag oupas demande coco[m
+[21:07:03] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[21:07:03] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[21:08:44] [Server thread/INFO]: mimikerry has just earned the achievement [Bake Bread]
+[21:15:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:37] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:38] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:44] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:45] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:46] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:48] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:57] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:59] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:59] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:15:59] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:17:16] [Server thread/INFO]: mimikerry has just earned the achievement [The Lie]
+[21:18:00] [Netty Epoll Server IO #2/INFO]: <Arktas> tu viens pas landry?[m
+[21:18:38] [Netty Epoll Server IO #3/INFO]: <Kaziel> ou ça?[m
+[21:18:42] [Netty Epoll Server IO #2/INFO]: <Arktas> TS[m
+[21:19:48] [Netty Epoll Server IO #3/INFO]: <Kaziel> nope pas envie, j'ai trop mal au crane[m
+[21:19:53] [Netty Epoll Server IO #2/INFO]: <Arktas> oki[m
+[21:21:46] [Netty Epoll Server IO #1/INFO]: <mimikerry> gâteau dans la salle commune du chteau[m
+[21:35:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:35:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:35:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:35:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:35:43] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[21:51:45] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[21:51:45] [Server thread/INFO]: mimikerry left the game
+[21:54:11] [Server thread/INFO]: WegPast lost connection: Disconnected
+[21:54:11] [Server thread/INFO]: WegPast left the game
+[22:28:19] [Netty Epoll Server IO #2/INFO]: <Arktas> je vais shutdown le serveur d'ici 5min landry[m
+[22:28:23] [Netty Epoll Server IO #2/INFO]: <Arktas> desole[m
+[22:31:30] [Netty Epoll Server IO #2/INFO]: <Arktas> yop ca va s'arreter[m
+[22:31:39] [Netty Epoll Server IO #3/INFO]: <Kaziel> why?[m
+[22:31:56] [Netty Epoll Server IO #2/INFO]: <Arktas> je vais voir avec weg pour switch sur son pc on a ttout preparer[m
+[22:32:04] [Netty Epoll Server IO #2/INFO]: <Arktas> tu vas pouvoir justet switch d'ip[m
+[22:32:11] [Netty Epoll Server IO #3/INFO]: <Kaziel> wokai[m
+[22:32:18] [Netty Epoll Server IO #2/INFO]: <Arktas> viens ts deux minutes le temps du transfert[m
+[22:32:18] [Netty Epoll Server IO #3/INFO]: <Kaziel> tchou[m
+[22:32:37] [Netty Epoll Server IO #3/INFO]: <Kaziel> ben je pense que je vais m'arreter là pour se soir de toute façon ;)[m
+[22:33:01] [Netty Epoll Server IO #2/INFO]: <Arktas> bah juste pour test au pire[m
+[22:33:12] [Netty Epoll Server IO #2/INFO]: <Arktas> voir si ca marche bien :)[m
+[22:33:12] [Netty Epoll Server IO #3/INFO]: <Kaziel> k[m
+[22:33:16] [Server thread/INFO]: Kaziel lost connection: Disconnected
+[22:33:16] [Server thread/INFO]: Kaziel left the game
+[22:33:18] [Server thread/INFO]: Arktas lost connection: Disconnected
+[22:33:18] [Server thread/INFO]: Arktas left the game
