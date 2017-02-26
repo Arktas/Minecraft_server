@@ -1,31 +1,40 @@
-[17:05:23] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[17:05:23] [Server thread/INFO]: Loading properties
-[17:05:23] [Server thread/INFO]: Default game type: SURVIVAL
-[17:05:23] [Server thread/INFO]: Generating keypair
-[17:05:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:05:23] [Server thread/INFO]: Using epoll channel type
-[17:05:23] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[17:05:23] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[17:05:23] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
-[17:05:23] [Server thread/INFO]: [dynmap] Mod Support API available
-[17:05:23] [Server thread/INFO]: Preparing level "world"
-[17:05:24] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[17:05:25] [Server thread/INFO]: Preparing spawn area: 24%
-[17:05:26] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[17:05:27] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[17:05:27] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[17:05:27] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[17:05:27] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[17:05:27] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[17:05:27] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[17:05:27] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[17:05:27] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[17:05:27] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[17:05:27] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
-[17:05:27] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[17:05:28] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[17:05:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[17:05:28] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[17:05:28] [Server thread/INFO]: [dynmap] Enabled
-[17:05:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:05:28] [Server thread/INFO]: Done (4,206s)! For help, type "help" or "?"
+[01:17:30] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[01:17:30] [Server thread/INFO]: Loading properties
+[01:17:30] [Server thread/INFO]: Default game type: SURVIVAL
+[01:17:30] [Server thread/INFO]: Generating keypair
+[01:17:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:17:31] [Server thread/INFO]: Using epoll channel type
+[01:17:31] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[01:17:31] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[01:17:31] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
+[01:17:31] [Server thread/INFO]: [dynmap] Mod Support API available
+[01:17:31] [Server thread/INFO]: Preparing level "world"
+[01:17:31] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
+[01:17:32] [Server thread/INFO]: Preparing spawn area: 38%
+[01:17:33] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
+[01:17:34] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
+[01:17:34] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[01:17:34] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[01:17:34] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[01:17:34] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[01:17:34] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[01:17:35] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[01:17:35] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[01:17:35] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[01:17:35] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
+[01:17:35] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[01:17:35] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[01:17:35] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[01:17:35] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[01:17:35] [Server thread/INFO]: [dynmap] Enabled
+[01:17:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:17:35] [Server thread/INFO]: Done (4,163s)! For help, type "help" or "?"
+[01:17:39] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[01:17:39] [Server thread/INFO]: Arktas[/192.168.1.1:59426] logged in with entity id 147 at ([world]635.0705474424772, 75.0, -8.801768397959147)
+[01:19:06] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[01:43:15] [Server thread/INFO]: Arktas lost connection: Disconnected
+[01:43:15] [Server thread/INFO]: Arktas left the game
+[11:28:28] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[11:28:28] [Server thread/INFO]: Arktas[/192.168.1.1:49489] logged in with entity id 35726 at ([world]647.2783086468655, 16.0, -52.576489337379314)
+[11:31:33] [Server thread/INFO]: Arktas lost connection: Disconnected
+[11:31:33] [Server thread/INFO]: Arktas left the game
