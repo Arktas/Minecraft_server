@@ -1,83 +1,15 @@
-[00:00:25] [User Authenticator #11/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[00:00:25] [Server thread/INFO]: Arktas[/192.168.1.1:50622] logged in with entity id 471361 at ([world]539.60891987656, 75.0, -85.49070634429803)
-[00:00:35] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[00:00:35] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[00:20:01] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[00:20:01] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[00:21:11] [Server thread/INFO]: Arktas lost connection: Disconnected
-[00:21:11] [Server thread/INFO]: Arktas left the game
-[13:17:58] [Server thread/WARN]: Time ran backwards! Did the system time change?
-[18:59:04] [User Authenticator #12/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
-[18:59:04] [Server thread/INFO]: mimikerry[/89.93.95.146:55577] logged in with entity id 491941 at ([world]563.5476020795875, 67.0, -42.48828205733348)
-[19:00:30] [User Authenticator #13/INFO]: UUID of player Kaziel is 1298a88e-3dcd-4b9f-842e-b99b4aef265f
-[19:00:30] [Server thread/INFO]: Kaziel[/92.88.255.133:52828] logged in with entity id 493165 at ([world]537.9917419968226, 75.0, -117.89214945769405)
-[19:02:03] [Netty Epoll Server IO #3/INFO]: <Kaziel> TS?[m
-[19:02:52] [Netty Epoll Server IO #1/INFO]: <mimikerry> 'kay[m
-[19:05:00] [Netty Epoll Server IO #1/INFO]: <mimikerry> TS ta mère[m
-[19:05:14] [Netty Epoll Server IO #1/INFO]: <mimikerry> enfin nous on va aller miam là et on re je joue juste un peu[m
-[19:05:30] [Netty Epoll Server IO #3/INFO]: <Kaziel> k[m
-[19:06:37] [Netty Epoll Server IO #1/INFO]: <mimikerry> je suis sur le TS là mek[m
-[19:09:13] [Server thread/INFO]: mimikerry lost connection: Disconnected
-[19:09:13] [Server thread/INFO]: mimikerry left the game
-[19:13:16] [Server thread/INFO]: Kaziel lost connection: Disconnected
-[19:13:16] [Server thread/INFO]: Kaziel left the game
-[19:57:31] [User Authenticator #14/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
-[19:57:31] [Server thread/INFO]: mimikerry[/89.93.95.146:55814] logged in with entity id 520153 at ([world]531.3396193057398, 74.0, -124.10543835285509)
-[20:04:21] [User Authenticator #15/INFO]: UUID of player Kaziel is 1298a88e-3dcd-4b9f-842e-b99b4aef265f
-[20:04:21] [Server thread/INFO]: Kaziel[/92.88.255.133:54237] logged in with entity id 525511 at ([world]608.2694874013563, 72.0, -235.55854864917623)
-[20:09:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:09:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:09:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:09:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:09:09] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:09:10] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:00] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:01] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:04] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:10:32] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:12:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:12:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:15:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:15:12] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[20:22:29] [Server thread/INFO]: mimikerry lost connection: Disconnected
-[20:22:29] [Server thread/INFO]: mimikerry left the game
-[20:22:35] [Server thread/INFO]: Kaziel lost connection: Disconnected
-[20:22:35] [Server thread/INFO]: Kaziel left the game
+[20:41:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 180517118ms behind, skipping 3610342 tick(s)
+[20:44:47] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[20:44:47] [Server thread/INFO]: Arktas[/77.148.87.244:50516] logged in with entity id 802 at ([world]529.6828887580161, 70.0, -75.51641133884534)
+[20:44:50] [User Authenticator #3/INFO]: UUID of player Kaziel is 1298a88e-3dcd-4b9f-842e-b99b4aef265f
+[20:44:50] [Server thread/INFO]: Kaziel[/92.88.255.133:55034] logged in with entity id 1206 at ([world]562.370427569982, 66.0, -225.34327769745138)
+[20:46:14] [User Authenticator #4/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[20:46:14] [Server thread/INFO]: mimikerry[/192.168.1.42:56070] logged in with entity id 4076 at ([world]613.2464712448221, 68.5, -62.048465927177304)
+[20:47:53] [Server thread/INFO]: [Server] cool on peut écrire de la merde :D
+[20:48:08] [Server thread/INFO]: Arktas lost connection: Disconnected
+[20:48:08] [Server thread/INFO]: Arktas left the game
+[20:57:02] [Server thread/INFO]: Kaziel has just earned the achievement [Enchanter]
+[21:29:59] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[21:29:59] [Server thread/INFO]: mimikerry left the game
+[21:35:55] [Server thread/INFO]: Kaziel lost connection: Disconnected
+[21:35:55] [Server thread/INFO]: Kaziel left the game
