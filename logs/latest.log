@@ -1,15 +1,14 @@
-[20:41:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 180517118ms behind, skipping 3610342 tick(s)
-[20:44:47] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[20:44:47] [Server thread/INFO]: Arktas[/77.148.87.244:50516] logged in with entity id 802 at ([world]529.6828887580161, 70.0, -75.51641133884534)
-[20:44:50] [User Authenticator #3/INFO]: UUID of player Kaziel is 1298a88e-3dcd-4b9f-842e-b99b4aef265f
-[20:44:50] [Server thread/INFO]: Kaziel[/92.88.255.133:55034] logged in with entity id 1206 at ([world]562.370427569982, 66.0, -225.34327769745138)
-[20:46:14] [User Authenticator #4/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
-[20:46:14] [Server thread/INFO]: mimikerry[/192.168.1.42:56070] logged in with entity id 4076 at ([world]613.2464712448221, 68.5, -62.048465927177304)
-[20:47:53] [Server thread/INFO]: [Server] cool on peut écrire de la merde :D
-[20:48:08] [Server thread/INFO]: Arktas lost connection: Disconnected
-[20:48:08] [Server thread/INFO]: Arktas left the game
-[20:57:02] [Server thread/INFO]: Kaziel has just earned the achievement [Enchanter]
-[21:29:59] [Server thread/INFO]: mimikerry lost connection: Disconnected
-[21:29:59] [Server thread/INFO]: mimikerry left the game
-[21:35:55] [Server thread/INFO]: Kaziel lost connection: Disconnected
-[21:35:55] [Server thread/INFO]: Kaziel left the game
+[00:10:46] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[00:10:46] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[00:11:52] [Server thread/INFO]: Arktas lost connection: Disconnected
+[00:11:52] [Server thread/INFO]: Arktas left the game
+[18:36:54] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[18:36:54] [Server thread/INFO]: Arktas[/192.168.1.1:49473] logged in with entity id 54520 at ([world]528.6345928170579, 73.0, -93.9294678500174)
+[18:37:13] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arkttas
+[18:37:13] [Server thread/INFO]: [Arktas: Player 'Arkttas' cannot be found]
+[18:37:17] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[18:37:17] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[19:25:18] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[19:25:18] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[19:25:50] [Server thread/INFO]: Arktas lost connection: Disconnected
+[19:25:50] [Server thread/INFO]: Arktas left the game
