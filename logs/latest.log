@@ -1,36 +1,125 @@
-[23:20:11] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[23:20:11] [Server thread/INFO]: Loading properties
-[23:20:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:20:11] [Server thread/INFO]: Generating keypair
-[23:20:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:20:11] [Server thread/INFO]: Using epoll channel type
-[23:20:11] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[23:20:11] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[23:20:11] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
-[23:20:12] [Server thread/INFO]: [dynmap] Mod Support API available
-[23:20:12] [Server thread/INFO]: Preparing level "world"
-[23:20:12] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[23:20:13] [Server thread/INFO]: Preparing spawn area: 12%
-[23:20:14] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[23:20:15] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[23:20:15] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[23:20:15] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[23:20:15] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[23:20:15] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[23:20:15] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[23:20:16] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[23:20:16] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[23:20:16] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[23:20:16] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
-[23:20:16] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[23:20:16] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[23:20:16] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[23:20:16] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[23:20:16] [Server thread/INFO]: [dynmap] Enabled
-[23:20:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:20:16] [Server thread/INFO]: Done (4,362s)! For help, type "help" or "?"
-[23:21:38] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[23:21:38] [Server thread/INFO]: Arktas[/192.168.1.1:50729] logged in with entity id 139 at ([world]516.7437151401599, 53.0, -127.70222842925796)
-[23:22:48] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[23:32:13] [Server thread/INFO]: Arktas lost connection: Internal Exception: java.io.IOException: Error while read(...): Connexion ré-initialisée par le correspondant
-[23:32:13] [Server thread/INFO]: Arktas left the game
+[19:13:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 157267637ms behind, skipping 3145352 tick(s)
+[19:13:50] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[19:13:53] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[19:13:55] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[19:13:55] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[19:13:55] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[19:13:55] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[19:13:55] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/achievement: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[19:13:55] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[19:14:54] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[19:15:00] [Server thread/INFO]: The number you have entered (256) is too big, it must be at most 64
+[19:15:06] [Server thread/INFO]: Given [Snowball] * 64 to Kaziel
+[19:16:20] [Server thread/INFO]: Given [Firework Rocket] * 64 to Kaziel
+[19:16:41] [User Authenticator #2/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[19:16:41] [Server thread/INFO]: WegPast[/192.168.1.5:50953] logged in with entity id 14242 at ([world]612.6549376666453, 69.0, -189.13219024859688)
+[19:16:47] [Server thread/INFO]: WegPast lost connection: Disconnected
+[19:16:47] [Server thread/INFO]: WegPast left the game
+[19:17:15] [User Authenticator #3/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[19:17:15] [Server thread/INFO]: WegPast[/192.168.1.5:51392] logged in with entity id 15262 at ([world]612.6549376666453, 69.0, -189.13219024859688)
+[19:20:22] [User Authenticator #4/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[19:20:22] [Server thread/INFO]: mimikerry[/192.168.1.94:58805] logged in with entity id 23519 at ([world]535.8311506762793, 70.0, -67.27883606220843)
+[19:25:48] [Server thread/WARN]: Kaziel moved wrongly!
+[19:39:58] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[19:41:43] [Server thread/INFO]: WegPast lost connection: Disconnected
+[19:41:43] [Server thread/INFO]: WegPast left the game
+[19:49:02] [User Authenticator #5/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[19:49:02] [Server thread/INFO]: WegPast[/192.168.1.5:58363] logged in with entity id 106672 at ([world]649.9917761865205, 72.0, 0.39468750762449234)
+[20:35:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:38:24] [Server thread/WARN]: Boat moved wrongly!
+[20:39:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:39:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:39:28] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:39:40] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:39:40] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:39:40] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:40:47] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[20:40:47] [Server thread/INFO]: mimikerry left the game
+[20:41:36] [Server thread/INFO]: Kaziel lost connection: Disconnected
+[20:41:36] [Server thread/INFO]: Kaziel left the game
+[20:51:53] [User Authenticator #6/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[20:51:53] [Server thread/INFO]: mimikerry[/192.168.1.94:59127] logged in with entity id 268688 at ([world]660.1452762854378, 69.0, -22.986179799336263)
+[20:52:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:52:05] [Server thread/WARN]: Skeleton Horse moved wrongly!
+[20:52:53] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[20:52:53] [Server thread/INFO]: mimikerry left the game
+[21:00:10] [Server thread/INFO]: WegPast lost connection: Disconnected
+[21:00:10] [Server thread/INFO]: WegPast left the game
+[21:30:14] [User Authenticator #7/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
+[21:30:14] [Server thread/INFO]: mimikerry[/192.168.1.94:59323] logged in with entity id 276840 at ([world]665.6316761307883, 69.0, -30.24199590288856)
+[21:30:42] [User Authenticator #8/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[21:30:42] [Server thread/INFO]: WegPast[/192.168.1.5:49584] logged in with entity id 278499 at ([world]653.9426213585621, 72.0, 2.461264474063678)
+[22:08:21] [Server thread/INFO]: WegPast lost connection: Disconnected
+[22:08:21] [Server thread/INFO]: WegPast left the game
+[22:10:22] [User Authenticator #9/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
+[22:10:22] [Server thread/INFO]: WegPast[/192.168.1.5:50757] logged in with entity id 341974 at ([world]652.7437355864337, 74.0, 0.08157415108343141)
+[22:28:16] [Server thread/INFO]: mimikerry lost connection: Disconnected
+[22:28:16] [Server thread/INFO]: mimikerry left the game
+[22:32:57] [Server thread/INFO]: WegPast lost connection: Disconnected
+[22:32:57] [Server thread/INFO]: WegPast left the game
