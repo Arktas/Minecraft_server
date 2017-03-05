@@ -1,126 +1,525 @@
-[01:41:58] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[01:41:58] [Server thread/INFO]: Loading properties
-[01:41:58] [Server thread/INFO]: Default game type: SURVIVAL
-[01:41:58] [Server thread/INFO]: Generating keypair
-[01:41:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:41:59] [Server thread/INFO]: Using epoll channel type
-[01:41:59] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[01:41:59] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[01:41:59] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
-[01:41:59] [Server thread/INFO]: [dynmap] Mod Support API available
-[01:41:59] [Server thread/INFO]: Preparing level "world"
-[01:42:00] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[01:42:01] [Server thread/INFO]: Preparing spawn area: 17%
-[01:42:02] [Server thread/INFO]: Preparing spawn area: 80%
-[01:42:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[01:42:03] [Server thread/INFO]: Preparing spawn area: 90%
-[01:42:03] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[01:42:03] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[01:42:03] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[01:42:03] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[01:42:03] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[01:42:04] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[01:42:04] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[01:42:04] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[01:42:04] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[01:42:05] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
-[01:42:05] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[01:42:05] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[01:42:05] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[01:42:05] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[01:42:05] [Server thread/INFO]: [dynmap] Enabled
-[01:42:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:42:05] [Server thread/INFO]: Done (5,618s)! For help, type "help" or "?"
-[01:42:43] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[01:42:45] [Server thread/INFO]: Arktas[/192.168.1.1:52092] logged in with entity id 135 at ([world]586.2142156816915, 67.0, -8.994163084472714)
-[01:43:41] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[02:12:08] [Server thread/INFO]: Arktas lost connection: Timed out
-[02:12:08] [Server thread/INFO]: Arktas left the game
-[02:12:32] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[02:12:32] [Server thread/INFO]: Arktas[/192.168.1.1:52255] logged in with entity id 32009 at ([world]578.2956797314034, 68.0, -9.120143791175462)
-[02:23:19] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[02:23:19] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[02:30:02] [Server thread/INFO]: Arktas lost connection: Disconnected
-[02:30:02] [Server thread/INFO]: Arktas left the game
-[12:23:10] [User Authenticator #3/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[12:23:10] [Server thread/INFO]: Arktas[/192.168.1.1:49503] logged in with entity id 51420 at ([world]541.6999999880791, 81.0, -88.09703899868651)
-[12:31:19] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[12:31:19] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[12:48:26] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[12:48:26] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[12:51:06] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[12:51:06] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[13:22:28] [Server thread/INFO]: Arktas issued server command: /fullrender
-[13:22:37] [Server thread/INFO]: Arktas issued server command: /dynmap fullrender
-[13:25:35] [Server thread/WARN]: Arktas moved too quickly! 4.731715825748324,0.0,15.630360724409229
-[13:25:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2253ms behind, skipping 45 tick(s)
-[13:26:07] [Server thread/WARN]: Arktas moved too quickly! 0.5884931555278854,0.0,13.534858724532569
-[13:27:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4276ms behind, skipping 85 tick(s)
-[13:27:09] [Server thread/WARN]: Arktas moved too quickly! -14.29021389815307,0.0,25.645363625041227
-[13:32:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4148ms behind, skipping 82 tick(s)
-[13:37:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4395ms behind, skipping 87 tick(s)
-[13:42:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2118ms behind, skipping 42 tick(s)
-[13:46:28] [User Authenticator #4/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
-[13:46:28] [Server thread/INFO]: mimikerry[/89.93.95.146:61683] logged in with entity id 192675 at ([world]655.2383471232602, 70.0, -14.536611804081774)
-[13:47:22] [Server thread/INFO]: mimikerry lost connection: Disconnected
-[13:47:22] [Server thread/INFO]: mimikerry left the game
-[14:29:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2758ms behind, skipping 55 tick(s)
-[14:52:15] [Server thread/WARN]: Arktas moved too quickly! -10.39935425474664,0.0,-17.252603764256946
-[14:52:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
-[14:58:39] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[14:58:39] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[14:58:57] [Server thread/INFO]: Arktas issued server command: /dynmap stoprender
-[14:59:08] [Server thread/INFO]: Arktas issued server command: /dynmap renderstop
-[15:00:26] [User Authenticator #5/INFO]: UUID of player zatura44 is cbd33540-85d0-4e83-89fe-10f3af53f406
-[15:00:27] [Server thread/INFO]: zatura44[/90.105.195.122:54086] logged in with entity id 343925 at ([world]-2873.7437951433367, 73.62396848626021, -39.02614030023549)
-[15:01:37] [Server thread/INFO]: Arktas issued server command: /dynmap pause all
-[15:01:37] [Server thread/INFO]: [dynmap] Full/radius render pause set to true
-[15:01:37] [Server thread/INFO]: [dynmap] Update render pause set to true
-[15:02:49] [Server thread/INFO]: zatura44 issued server command: /spawn
-[15:03:14] [Server thread/INFO]: Arktas issued server command: /tp Zatura Arktas
-[15:03:14] [Server thread/INFO]: [Arktas: Entity 'Zatura' cannot be found]
-[15:03:26] [Server thread/INFO]: Arktas issued server command: /tp zatura44 Arktas
-[15:03:26] [Server thread/INFO]: [Arktas: Teleported zatura44 to Arktas]
-[15:04:45] [User Authenticator #6/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
-[15:04:46] [Server thread/INFO]: WegPast[/89.93.95.146:62178] logged in with entity id 355397 at ([world]649.5452655235831, 72.0, -0.4538699169841993)
-[15:05:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:06] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:07] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:16] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:17] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:27] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:54] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:54] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:54] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:54] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:05:54] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[15:06:01] [Server thread/INFO]: Arktas lost connection: Disconnected
-[15:06:01] [Server thread/INFO]: Arktas left the game
-[15:06:21] [Server thread/INFO]: WegPast lost connection: Disconnected
-[15:06:21] [Server thread/INFO]: WegPast left the game
-[15:06:42] [Server thread/INFO]: zatura44 lost connection: Disconnected
-[15:06:42] [Server thread/INFO]: zatura44 left the game
+[16:23:06] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[16:23:06] [Server thread/INFO]: Loading properties
+[16:23:06] [Server thread/INFO]: Default game type: SURVIVAL
+[16:23:06] [Server thread/INFO]: Generating keypair
+[16:23:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:23:06] [Server thread/INFO]: Using epoll channel type
+[16:23:06] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[16:23:06] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[16:23:06] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
+[16:23:06] [Server thread/INFO]: [dynmap] Mod Support API available
+[16:23:07] [Server thread/INFO]: Preparing level "world"
+[16:23:07] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
+[16:23:08] [Server thread/INFO]: Preparing spawn area: 10%
+[16:23:09] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
+[16:23:10] [Server thread/INFO]: Preparing spawn area: 97%
+[16:23:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
+[16:23:10] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[16:23:10] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[16:23:10] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[16:23:10] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[16:23:11] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[16:23:11] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[16:23:11] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[16:23:11] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[16:23:12] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
+[16:23:12] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[16:23:12] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[16:23:12] [Server thread/INFO]: [dynmap] Loaded 3230 pending tile renders for world 'world'
+[16:23:12] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[16:23:12] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[16:23:12] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[16:23:12] [Server thread/INFO]: [dynmap] Enabled
+[16:23:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:23:12] [Server thread/INFO]: Done (5,365s)! For help, type "help" or "?"
+[16:23:13] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[16:23:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47100 tiles rendered (97,97 msec/tile, 51,83 msec per render)
+[16:23:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47200 tiles rendered (97,96 msec/tile, 60,13 msec per render)
+[16:23:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47300 tiles rendered (98,01 msec/tile, 70,86 msec per render)
+[16:23:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47400 tiles rendered (98,09 msec/tile, 69,93 msec per render)
+[16:24:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47500 tiles rendered (98,06 msec/tile, 64,81 msec per render)
+[16:24:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47600 tiles rendered (98,09 msec/tile, 65,22 msec per render)
+[16:24:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47700 tiles rendered (98,05 msec/tile, 59,43 msec per render)
+[16:24:32] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47800 tiles rendered (98,00 msec/tile, 56,19 msec per render)
+[16:24:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 47900 tiles rendered (97,97 msec/tile, 55,43 msec per render)
+[16:24:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48000 tiles rendered (97,98 msec/tile, 56,84 msec per render)
+[16:25:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48100 tiles rendered (98,05 msec/tile, 58,65 msec per render)
+[16:25:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48200 tiles rendered (98,02 msec/tile, 57,70 msec per render)
+[16:25:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48300 tiles rendered (98,03 msec/tile, 57,74 msec per render)
+[16:25:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48400 tiles rendered (97,98 msec/tile, 55,56 msec per render)
+[16:25:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48500 tiles rendered (97,94 msec/tile, 54,31 msec per render)
+[16:25:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48600 tiles rendered (97,90 msec/tile, 54,31 msec per render)
+[16:25:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48700 tiles rendered (97,90 msec/tile, 54,49 msec per render)
+[16:26:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48800 tiles rendered (97,98 msec/tile, 56,39 msec per render)
+[16:26:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 48900 tiles rendered (97,96 msec/tile, 56,18 msec per render)
+[16:26:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49000 tiles rendered (97,95 msec/tile, 56,30 msec per render)
+[16:26:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49100 tiles rendered (97,88 msec/tile, 54,82 msec per render)
+[16:26:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49200 tiles rendered (97,84 msec/tile, 53,77 msec per render)
+[16:26:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49300 tiles rendered (97,84 msec/tile, 54,24 msec per render)
+[16:27:00] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49400 tiles rendered (97,80 msec/tile, 54,23 msec per render)
+[16:27:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49500 tiles rendered (97,86 msec/tile, 55,21 msec per render)
+[16:27:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49600 tiles rendered (97,85 msec/tile, 55,08 msec per render)
+[16:27:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49700 tiles rendered (97,89 msec/tile, 55,71 msec per render)
+[16:27:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49800 tiles rendered (97,86 msec/tile, 54,59 msec per render)
+[16:27:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 49900 tiles rendered (97,82 msec/tile, 53,82 msec per render)
+[16:27:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50000 tiles rendered (97,79 msec/tile, 53,85 msec per render)
+[16:28:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50100 tiles rendered (97,75 msec/tile, 53,61 msec per render)
+[16:28:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50200 tiles rendered (97,83 msec/tile, 54,51 msec per render)
+[16:28:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50300 tiles rendered (97,84 msec/tile, 54,70 msec per render)
+[16:28:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50400 tiles rendered (97,85 msec/tile, 54,73 msec per render)
+[16:28:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50500 tiles rendered (97,79 msec/tile, 54,15 msec per render)
+[16:28:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50600 tiles rendered (97,76 msec/tile, 53,63 msec per render)
+[16:29:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50700 tiles rendered (97,72 msec/tile, 53,58 msec per render)
+[16:29:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50800 tiles rendered (97,67 msec/tile, 53,37 msec per render)
+[16:29:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 50900 tiles rendered (97,70 msec/tile, 53,77 msec per render)
+[16:29:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51000 tiles rendered (97,74 msec/tile, 54,17 msec per render)
+[16:29:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51100 tiles rendered (97,71 msec/tile, 54,16 msec per render)
+[16:29:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51200 tiles rendered (97,65 msec/tile, 53,60 msec per render)
+[16:30:00] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51300 tiles rendered (97,63 msec/tile, 53,10 msec per render)
+[16:30:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51400 tiles rendered (97,63 msec/tile, 53,29 msec per render)
+[16:30:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51500 tiles rendered (97,60 msec/tile, 53,20 msec per render)
+[16:30:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51600 tiles rendered (97,62 msec/tile, 53,21 msec per render)
+[16:30:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51700 tiles rendered (97,65 msec/tile, 53,35 msec per render)
+[16:30:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51800 tiles rendered (97,61 msec/tile, 53,31 msec per render)
+[16:30:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 51900 tiles rendered (97,58 msec/tile, 53,06 msec per render)
+[16:31:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52000 tiles rendered (97,65 msec/tile, 53,04 msec per render)
+[16:31:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52100 tiles rendered (97,60 msec/tile, 52,91 msec per render)
+[16:31:25] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52200 tiles rendered (97,56 msec/tile, 52,73 msec per render)
+[16:31:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52300 tiles rendered (97,57 msec/tile, 52,94 msec per render)
+[16:31:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52400 tiles rendered (97,60 msec/tile, 52,99 msec per render)
+[16:31:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52500 tiles rendered (97,56 msec/tile, 52,93 msec per render)
+[16:32:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52600 tiles rendered (97,53 msec/tile, 52,58 msec per render)
+[16:32:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52700 tiles rendered (97,51 msec/tile, 52,23 msec per render)
+[16:32:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52800 tiles rendered (97,47 msec/tile, 52,13 msec per render)
+[16:32:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 52900 tiles rendered (97,41 msec/tile, 51,87 msec per render)
+[16:32:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53000 tiles rendered (97,41 msec/tile, 52,03 msec per render)
+[16:32:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53100 tiles rendered (97,47 msec/tile, 52,26 msec per render)
+[16:32:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53200 tiles rendered (97,42 msec/tile, 52,12 msec per render)
+[16:33:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53300 tiles rendered (97,39 msec/tile, 51,93 msec per render)
+[16:33:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53400 tiles rendered (97,37 msec/tile, 51,66 msec per render)
+[16:33:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53500 tiles rendered (97,33 msec/tile, 51,58 msec per render)
+[16:33:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53600 tiles rendered (97,26 msec/tile, 51,37 msec per render)
+[16:33:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53700 tiles rendered (97,26 msec/tile, 51,60 msec per render)
+[16:33:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53800 tiles rendered (97,28 msec/tile, 51,59 msec per render)
+[16:33:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 53900 tiles rendered (97,25 msec/tile, 51,57 msec per render)
+[16:34:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54000 tiles rendered (97,25 msec/tile, 51,61 msec per render)
+[16:34:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54100 tiles rendered (97,22 msec/tile, 51,40 msec per render)
+[16:34:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54200 tiles rendered (97,16 msec/tile, 51,19 msec per render)
+[16:34:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54300 tiles rendered (97,11 msec/tile, 51,05 msec per render)
+[16:34:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54400 tiles rendered (97,09 msec/tile, 51,03 msec per render)
+[16:34:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54500 tiles rendered (97,10 msec/tile, 50,98 msec per render)
+[16:34:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54600 tiles rendered (97,08 msec/tile, 50,95 msec per render)
+[16:35:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54700 tiles rendered (97,06 msec/tile, 50,90 msec per render)
+[16:35:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54800 tiles rendered (97,03 msec/tile, 50,76 msec per render)
+[16:35:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 54900 tiles rendered (96,97 msec/tile, 50,54 msec per render)
+[16:35:25] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55000 tiles rendered (96,91 msec/tile, 50,42 msec per render)
+[16:35:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55100 tiles rendered (96,89 msec/tile, 50,51 msec per render)
+[16:35:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55200 tiles rendered (96,91 msec/tile, 50,46 msec per render)
+[16:35:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55300 tiles rendered (96,88 msec/tile, 50,38 msec per render)
+[16:36:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55400 tiles rendered (96,87 msec/tile, 50,32 msec per render)
+[16:36:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55500 tiles rendered (96,84 msec/tile, 50,20 msec per render)
+[16:36:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55600 tiles rendered (96,79 msec/tile, 50,14 msec per render)
+[16:36:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55700 tiles rendered (96,74 msec/tile, 50,02 msec per render)
+[16:36:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55800 tiles rendered (96,74 msec/tile, 50,10 msec per render)
+[16:36:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 55900 tiles rendered (96,73 msec/tile, 50,10 msec per render)
+[16:36:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56000 tiles rendered (96,70 msec/tile, 50,09 msec per render)
+[16:37:00] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56100 tiles rendered (96,66 msec/tile, 49,96 msec per render)
+[16:37:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56200 tiles rendered (96,67 msec/tile, 50,03 msec per render)
+[16:37:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56300 tiles rendered (96,64 msec/tile, 50,07 msec per render)
+[16:37:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56400 tiles rendered (96,59 msec/tile, 49,93 msec per render)
+[16:37:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56500 tiles rendered (96,61 msec/tile, 49,99 msec per render)
+[16:37:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56600 tiles rendered (96,61 msec/tile, 50,12 msec per render)
+[16:37:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56700 tiles rendered (96,59 msec/tile, 50,14 msec per render)
+[16:38:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56800 tiles rendered (96,58 msec/tile, 50,14 msec per render)
+[16:38:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 56900 tiles rendered (96,54 msec/tile, 50,03 msec per render)
+[16:38:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57000 tiles rendered (96,50 msec/tile, 50,00 msec per render)
+[16:38:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57100 tiles rendered (96,47 msec/tile, 50,06 msec per render)
+[16:38:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57200 tiles rendered (96,47 msec/tile, 50,01 msec per render)
+[16:38:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57300 tiles rendered (96,46 msec/tile, 50,02 msec per render)
+[16:38:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57400 tiles rendered (96,44 msec/tile, 50,00 msec per render)
+[16:39:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57500 tiles rendered (96,46 msec/tile, 50,15 msec per render)
+[16:39:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57600 tiles rendered (96,39 msec/tile, 49,99 msec per render)
+[16:39:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57700 tiles rendered (96,32 msec/tile, 49,86 msec per render)
+[16:39:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57800 tiles rendered (96,33 msec/tile, 50,01 msec per render)
+[16:39:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 57900 tiles rendered (96,34 msec/tile, 50,03 msec per render)
+[16:39:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58000 tiles rendered (96,31 msec/tile, 50,05 msec per render)
+[16:39:53] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58100 tiles rendered (96,28 msec/tile, 49,95 msec per render)
+[16:40:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58200 tiles rendered (96,30 msec/tile, 50,11 msec per render)
+[16:40:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58300 tiles rendered (96,25 msec/tile, 50,05 msec per render)
+[16:40:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58400 tiles rendered (96,19 msec/tile, 49,94 msec per render)
+[16:40:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58500 tiles rendered (96,19 msec/tile, 50,00 msec per render)
+[16:40:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58600 tiles rendered (96,21 msec/tile, 50,08 msec per render)
+[16:40:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58700 tiles rendered (96,18 msec/tile, 50,09 msec per render)
+[16:40:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58800 tiles rendered (96,17 msec/tile, 50,08 msec per render)
+[16:41:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 58900 tiles rendered (96,15 msec/tile, 50,07 msec per render)
+[16:41:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59000 tiles rendered (96,10 msec/tile, 49,99 msec per render)
+[16:41:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59100 tiles rendered (96,08 msec/tile, 50,01 msec per render)
+[16:41:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59200 tiles rendered (96,07 msec/tile, 49,97 msec per render)
+[16:41:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59300 tiles rendered (96,08 msec/tile, 50,05 msec per render)
+[16:41:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59400 tiles rendered (96,06 msec/tile, 50,06 msec per render)
+[16:41:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59500 tiles rendered (96,08 msec/tile, 50,17 msec per render)
+[16:42:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59600 tiles rendered (96,03 msec/tile, 50,10 msec per render)
+[16:42:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59700 tiles rendered (95,99 msec/tile, 49,99 msec per render)
+[16:42:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59800 tiles rendered (95,97 msec/tile, 50,08 msec per render)
+[16:42:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 59900 tiles rendered (95,98 msec/tile, 50,07 msec per render)
+[16:42:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60000 tiles rendered (95,95 msec/tile, 50,07 msec per render)
+[16:42:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60100 tiles rendered (95,92 msec/tile, 50,02 msec per render)
+[16:42:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60200 tiles rendered (95,94 msec/tile, 50,14 msec per render)
+[16:43:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60300 tiles rendered (95,89 msec/tile, 50,07 msec per render)
+[16:43:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60400 tiles rendered (95,84 msec/tile, 50,00 msec per render)
+[16:43:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60500 tiles rendered (95,83 msec/tile, 50,02 msec per render)
+[16:43:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60600 tiles rendered (95,84 msec/tile, 50,11 msec per render)
+[16:43:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60700 tiles rendered (95,83 msec/tile, 50,14 msec per render)
+[16:43:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60800 tiles rendered (95,81 msec/tile, 50,06 msec per render)
+[16:43:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 60900 tiles rendered (95,79 msec/tile, 50,08 msec per render)
+[16:44:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61000 tiles rendered (95,75 msec/tile, 50,03 msec per render)
+[16:44:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61100 tiles rendered (95,70 msec/tile, 49,96 msec per render)
+[16:44:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61200 tiles rendered (95,70 msec/tile, 49,99 msec per render)
+[16:44:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61300 tiles rendered (95,72 msec/tile, 50,13 msec per render)
+[16:44:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61400 tiles rendered (95,70 msec/tile, 50,13 msec per render)
+[16:44:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61500 tiles rendered (95,71 msec/tile, 50,17 msec per render)
+[16:44:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61600 tiles rendered (95,67 msec/tile, 50,09 msec per render)
+[16:45:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61700 tiles rendered (95,64 msec/tile, 50,03 msec per render)
+[16:45:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61800 tiles rendered (95,61 msec/tile, 50,06 msec per render)
+[16:45:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 61900 tiles rendered (95,60 msec/tile, 50,00 msec per render)
+[16:45:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62000 tiles rendered (95,63 msec/tile, 50,18 msec per render)
+[16:45:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62100 tiles rendered (95,63 msec/tile, 50,22 msec per render)
+[16:45:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62200 tiles rendered (95,63 msec/tile, 50,25 msec per render)
+[16:45:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62300 tiles rendered (95,58 msec/tile, 50,20 msec per render)
+[16:46:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62400 tiles rendered (95,53 msec/tile, 50,13 msec per render)
+[16:46:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62500 tiles rendered (95,52 msec/tile, 50,17 msec per render)
+[16:46:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62600 tiles rendered (95,51 msec/tile, 50,15 msec per render)
+[16:46:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62700 tiles rendered (95,51 msec/tile, 50,24 msec per render)
+[16:46:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62800 tiles rendered (95,49 msec/tile, 50,20 msec per render)
+[16:46:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 62900 tiles rendered (95,50 msec/tile, 50,27 msec per render)
+[16:46:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63000 tiles rendered (95,46 msec/tile, 50,26 msec per render)
+[16:47:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63100 tiles rendered (95,42 msec/tile, 50,19 msec per render)
+[16:47:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63200 tiles rendered (95,39 msec/tile, 50,18 msec per render)
+[16:47:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63300 tiles rendered (95,39 msec/tile, 50,19 msec per render)
+[16:47:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63400 tiles rendered (95,40 msec/tile, 50,26 msec per render)
+[16:47:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63500 tiles rendered (95,37 msec/tile, 50,16 msec per render)
+[16:47:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63600 tiles rendered (95,38 msec/tile, 50,23 msec per render)
+[16:47:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63700 tiles rendered (95,37 msec/tile, 50,31 msec per render)
+[16:48:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63800 tiles rendered (95,34 msec/tile, 50,26 msec per render)
+[16:48:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 63900 tiles rendered (95,31 msec/tile, 50,24 msec per render)
+[16:48:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64000 tiles rendered (95,31 msec/tile, 50,27 msec per render)
+[16:48:32] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64100 tiles rendered (95,31 msec/tile, 50,30 msec per render)
+[16:48:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64200 tiles rendered (95,27 msec/tile, 50,18 msec per render)
+[16:48:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64300 tiles rendered (95,28 msec/tile, 50,24 msec per render)
+[16:48:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64400 tiles rendered (95,27 msec/tile, 50,27 msec per render)
+[16:49:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64500 tiles rendered (95,24 msec/tile, 50,22 msec per render)
+[16:49:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64600 tiles rendered (95,21 msec/tile, 50,22 msec per render)
+[16:49:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64700 tiles rendered (95,21 msec/tile, 50,25 msec per render)
+[16:49:32] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64800 tiles rendered (95,20 msec/tile, 50,28 msec per render)
+[16:49:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 64900 tiles rendered (95,17 msec/tile, 50,17 msec per render)
+[16:49:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65000 tiles rendered (95,16 msec/tile, 50,21 msec per render)
+[16:49:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65100 tiles rendered (95,15 msec/tile, 50,27 msec per render)
+[16:50:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65200 tiles rendered (95,11 msec/tile, 50,21 msec per render)
+[16:50:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65300 tiles rendered (95,08 msec/tile, 50,20 msec per render)
+[16:50:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65400 tiles rendered (95,08 msec/tile, 50,24 msec per render)
+[16:50:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65500 tiles rendered (95,07 msec/tile, 50,27 msec per render)
+[16:50:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65600 tiles rendered (95,03 msec/tile, 50,17 msec per render)
+[16:50:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65700 tiles rendered (95,04 msec/tile, 50,20 msec per render)
+[16:50:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65800 tiles rendered (95,04 msec/tile, 50,24 msec per render)
+[16:51:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 65900 tiles rendered (95,00 msec/tile, 50,19 msec per render)
+[16:51:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66000 tiles rendered (94,97 msec/tile, 50,17 msec per render)
+[16:51:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66100 tiles rendered (94,96 msec/tile, 50,19 msec per render)
+[16:51:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66200 tiles rendered (94,97 msec/tile, 50,27 msec per render)
+[16:51:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66300 tiles rendered (94,93 msec/tile, 50,15 msec per render)
+[16:51:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66400 tiles rendered (94,94 msec/tile, 50,21 msec per render)
+[16:51:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66500 tiles rendered (94,92 msec/tile, 50,25 msec per render)
+[16:52:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66600 tiles rendered (94,90 msec/tile, 50,22 msec per render)
+[16:52:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66700 tiles rendered (94,87 msec/tile, 50,18 msec per render)
+[16:52:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66800 tiles rendered (94,86 msec/tile, 50,19 msec per render)
+[16:52:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 66900 tiles rendered (94,87 msec/tile, 50,26 msec per render)
+[16:52:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67000 tiles rendered (94,83 msec/tile, 50,15 msec per render)
+[16:52:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67100 tiles rendered (94,84 msec/tile, 50,22 msec per render)
+[16:52:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67200 tiles rendered (94,81 msec/tile, 50,21 msec per render)
+[16:53:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67300 tiles rendered (94,77 msec/tile, 50,17 msec per render)
+[16:53:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67400 tiles rendered (94,73 msec/tile, 50,12 msec per render)
+[16:53:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67500 tiles rendered (94,73 msec/tile, 50,13 msec per render)
+[16:53:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67600 tiles rendered (94,73 msec/tile, 50,21 msec per render)
+[16:53:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67700 tiles rendered (94,70 msec/tile, 50,10 msec per render)
+[16:53:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67800 tiles rendered (94,71 msec/tile, 50,18 msec per render)
+[16:53:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 67900 tiles rendered (94,70 msec/tile, 50,19 msec per render)
+[16:54:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68000 tiles rendered (94,66 msec/tile, 50,14 msec per render)
+[16:54:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68100 tiles rendered (94,63 msec/tile, 50,09 msec per render)
+[16:54:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68200 tiles rendered (94,61 msec/tile, 50,08 msec per render)
+[16:54:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68300 tiles rendered (94,63 msec/tile, 50,15 msec per render)
+[16:54:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68400 tiles rendered (94,59 msec/tile, 50,06 msec per render)
+[16:54:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68500 tiles rendered (94,60 msec/tile, 50,13 msec per render)
+[16:54:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68600 tiles rendered (94,58 msec/tile, 50,12 msec per render)
+[16:55:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68700 tiles rendered (94,56 msec/tile, 50,09 msec per render)
+[16:55:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68800 tiles rendered (94,52 msec/tile, 50,04 msec per render)
+[16:55:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 68900 tiles rendered (94,49 msec/tile, 50,00 msec per render)
+[16:55:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69000 tiles rendered (94,50 msec/tile, 50,08 msec per render)
+[16:55:33] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69100 tiles rendered (94,47 msec/tile, 49,99 msec per render)
+[16:55:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69200 tiles rendered (94,47 msec/tile, 50,04 msec per render)
+[16:55:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69300 tiles rendered (94,44 msec/tile, 50,04 msec per render)
+[16:55:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69400 tiles rendered (94,40 msec/tile, 50,01 msec per render)
+[16:56:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69500 tiles rendered (94,36 msec/tile, 49,96 msec per render)
+[16:56:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69600 tiles rendered (94,34 msec/tile, 49,93 msec per render)
+[16:56:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69700 tiles rendered (94,35 msec/tile, 50,00 msec per render)
+[16:56:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69800 tiles rendered (94,32 msec/tile, 49,93 msec per render)
+[16:56:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 69900 tiles rendered (94,33 msec/tile, 49,96 msec per render)
+[16:56:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70000 tiles rendered (94,32 msec/tile, 49,95 msec per render)
+[16:56:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70100 tiles rendered (94,28 msec/tile, 49,92 msec per render)
+[16:57:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70200 tiles rendered (94,25 msec/tile, 49,88 msec per render)
+[16:57:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70300 tiles rendered (94,20 msec/tile, 49,80 msec per render)
+[16:57:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70400 tiles rendered (94,20 msec/tile, 49,87 msec per render)
+[16:57:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70500 tiles rendered (94,19 msec/tile, 49,82 msec per render)
+[16:57:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70600 tiles rendered (94,19 msec/tile, 49,84 msec per render)
+[16:57:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70700 tiles rendered (94,16 msec/tile, 49,81 msec per render)
+[16:57:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70800 tiles rendered (94,14 msec/tile, 49,80 msec per render)
+[16:57:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 70900 tiles rendered (94,11 msec/tile, 49,76 msec per render)
+[16:58:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71000 tiles rendered (94,07 msec/tile, 49,69 msec per render)
+[16:58:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71100 tiles rendered (94,07 msec/tile, 49,73 msec per render)
+[16:58:25] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71200 tiles rendered (94,06 msec/tile, 49,70 msec per render)
+[16:58:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71300 tiles rendered (94,06 msec/tile, 49,70 msec per render)
+[16:58:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71400 tiles rendered (94,03 msec/tile, 49,66 msec per render)
+[16:58:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71500 tiles rendered (94,00 msec/tile, 49,63 msec per render)
+[16:58:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71600 tiles rendered (93,97 msec/tile, 49,64 msec per render)
+[16:59:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71700 tiles rendered (93,93 msec/tile, 49,55 msec per render)
+[16:59:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71800 tiles rendered (93,93 msec/tile, 49,60 msec per render)
+[16:59:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 71900 tiles rendered (93,90 msec/tile, 49,53 msec per render)
+[16:59:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72000 tiles rendered (93,89 msec/tile, 49,53 msec per render)
+[16:59:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72100 tiles rendered (93,86 msec/tile, 49,53 msec per render)
+[16:59:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72200 tiles rendered (93,82 msec/tile, 49,51 msec per render)
+[16:59:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72300 tiles rendered (93,78 msec/tile, 49,46 msec per render)
+[16:59:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72400 tiles rendered (93,76 msec/tile, 49,44 msec per render)
+[17:00:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72500 tiles rendered (93,75 msec/tile, 49,45 msec per render)
+[17:00:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72600 tiles rendered (93,72 msec/tile, 49,37 msec per render)
+[17:00:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72700 tiles rendered (93,71 msec/tile, 49,36 msec per render)
+[17:00:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72800 tiles rendered (93,68 msec/tile, 49,35 msec per render)
+[17:00:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 72900 tiles rendered (93,64 msec/tile, 49,30 msec per render)
+[17:00:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73000 tiles rendered (93,60 msec/tile, 49,25 msec per render)
+[17:00:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73100 tiles rendered (93,61 msec/tile, 49,32 msec per render)
+[17:01:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73200 tiles rendered (93,60 msec/tile, 49,25 msec per render)
+[17:01:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73300 tiles rendered (93,59 msec/tile, 49,23 msec per render)
+[17:01:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73400 tiles rendered (93,56 msec/tile, 49,23 msec per render)
+[17:01:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73500 tiles rendered (93,53 msec/tile, 49,20 msec per render)
+[17:01:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73600 tiles rendered (93,51 msec/tile, 49,21 msec per render)
+[17:01:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73700 tiles rendered (93,49 msec/tile, 49,18 msec per render)
+[17:01:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73800 tiles rendered (93,49 msec/tile, 49,21 msec per render)
+[17:01:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 73900 tiles rendered (93,46 msec/tile, 49,13 msec per render)
+[17:02:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74000 tiles rendered (93,44 msec/tile, 49,13 msec per render)
+[17:02:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74100 tiles rendered (93,41 msec/tile, 49,12 msec per render)
+[17:02:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74200 tiles rendered (93,37 msec/tile, 49,07 msec per render)
+[17:02:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74300 tiles rendered (93,33 msec/tile, 49,02 msec per render)
+[17:02:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74400 tiles rendered (93,32 msec/tile, 49,06 msec per render)
+[17:02:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74500 tiles rendered (93,30 msec/tile, 48,99 msec per render)
+[17:02:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74600 tiles rendered (93,28 msec/tile, 48,97 msec per render)
+[17:02:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74700 tiles rendered (93,26 msec/tile, 48,96 msec per render)
+[17:03:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74800 tiles rendered (93,22 msec/tile, 48,93 msec per render)
+[17:03:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 74900 tiles rendered (93,19 msec/tile, 48,90 msec per render)
+[17:03:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75000 tiles rendered (93,16 msec/tile, 48,87 msec per render)
+[17:03:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75100 tiles rendered (93,17 msec/tile, 48,88 msec per render)
+[17:03:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75200 tiles rendered (93,15 msec/tile, 48,84 msec per render)
+[17:03:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75300 tiles rendered (93,12 msec/tile, 48,79 msec per render)
+[17:03:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75400 tiles rendered (93,10 msec/tile, 48,78 msec per render)
+[17:04:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75500 tiles rendered (93,07 msec/tile, 48,76 msec per render)
+[17:04:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75600 tiles rendered (93,04 msec/tile, 48,73 msec per render)
+[17:04:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75700 tiles rendered (93,03 msec/tile, 48,74 msec per render)
+[17:04:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75800 tiles rendered (93,00 msec/tile, 48,65 msec per render)
+[17:04:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 75900 tiles rendered (93,01 msec/tile, 48,67 msec per render)
+[17:04:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76000 tiles rendered (92,98 msec/tile, 48,67 msec per render)
+[17:04:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76100 tiles rendered (92,95 msec/tile, 48,65 msec per render)
+[17:04:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76200 tiles rendered (92,92 msec/tile, 48,60 msec per render)
+[17:05:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76300 tiles rendered (92,90 msec/tile, 48,60 msec per render)
+[17:05:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76400 tiles rendered (92,89 msec/tile, 48,56 msec per render)
+[17:05:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76500 tiles rendered (92,88 msec/tile, 48,58 msec per render)
+[17:05:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76600 tiles rendered (92,85 msec/tile, 48,57 msec per render)
+[17:05:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76700 tiles rendered (92,81 msec/tile, 48,53 msec per render)
+[17:05:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76800 tiles rendered (92,78 msec/tile, 48,50 msec per render)
+[17:05:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 76900 tiles rendered (92,76 msec/tile, 48,49 msec per render)
+[17:05:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77000 tiles rendered (92,74 msec/tile, 48,43 msec per render)
+[17:06:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77100 tiles rendered (92,74 msec/tile, 48,44 msec per render)
+[17:06:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77200 tiles rendered (92,74 msec/tile, 48,45 msec per render)
+[17:06:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77300 tiles rendered (92,70 msec/tile, 48,42 msec per render)
+[17:06:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77400 tiles rendered (92,67 msec/tile, 48,39 msec per render)
+[17:06:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77500 tiles rendered (92,67 msec/tile, 48,41 msec per render)
+[17:06:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77600 tiles rendered (92,65 msec/tile, 48,37 msec per render)
+[17:06:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77700 tiles rendered (92,62 msec/tile, 48,34 msec per render)
+[17:07:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77800 tiles rendered (92,60 msec/tile, 48,34 msec per render)
+[17:07:11] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 77900 tiles rendered (92,57 msec/tile, 48,32 msec per render)
+[17:07:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78000 tiles rendered (92,56 msec/tile, 48,33 msec per render)
+[17:07:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78100 tiles rendered (92,54 msec/tile, 48,30 msec per render)
+[17:07:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78200 tiles rendered (92,54 msec/tile, 48,30 msec per render)
+[17:07:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78300 tiles rendered (92,52 msec/tile, 48,31 msec per render)
+[17:07:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78400 tiles rendered (92,48 msec/tile, 48,29 msec per render)
+[17:07:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78500 tiles rendered (92,44 msec/tile, 48,26 msec per render)
+[17:08:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78600 tiles rendered (92,48 msec/tile, 48,30 msec per render)
+[17:08:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78700 tiles rendered (92,51 msec/tile, 48,34 msec per render)
+[17:08:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78800 tiles rendered (92,47 msec/tile, 48,30 msec per render)
+[17:08:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 78900 tiles rendered (92,46 msec/tile, 48,31 msec per render)
+[17:08:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79000 tiles rendered (92,45 msec/tile, 48,28 msec per render)
+[17:08:53] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79100 tiles rendered (92,43 msec/tile, 48,27 msec per render)
+[17:09:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79200 tiles rendered (92,42 msec/tile, 48,24 msec per render)
+[17:09:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79300 tiles rendered (92,43 msec/tile, 48,26 msec per render)
+[17:09:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79400 tiles rendered (92,44 msec/tile, 48,30 msec per render)
+[17:09:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79500 tiles rendered (92,41 msec/tile, 48,27 msec per render)
+[17:09:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79600 tiles rendered (92,38 msec/tile, 48,25 msec per render)
+[17:09:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79700 tiles rendered (92,38 msec/tile, 48,25 msec per render)
+[17:09:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79800 tiles rendered (92,37 msec/tile, 48,24 msec per render)
+[17:10:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 79900 tiles rendered (92,35 msec/tile, 48,24 msec per render)
+[17:10:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80000 tiles rendered (92,31 msec/tile, 48,20 msec per render)
+[17:10:15] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80100 tiles rendered (92,28 msec/tile, 48,17 msec per render)
+[17:10:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80200 tiles rendered (92,29 msec/tile, 48,19 msec per render)
+[17:10:35] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80300 tiles rendered (92,29 msec/tile, 48,18 msec per render)
+[17:10:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80400 tiles rendered (92,26 msec/tile, 48,15 msec per render)
+[17:10:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80500 tiles rendered (92,24 msec/tile, 48,17 msec per render)
+[17:10:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80600 tiles rendered (92,20 msec/tile, 48,13 msec per render)
+[17:11:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80700 tiles rendered (92,19 msec/tile, 48,15 msec per render)
+[17:11:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80800 tiles rendered (92,18 msec/tile, 48,14 msec per render)
+[17:11:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 80900 tiles rendered (92,18 msec/tile, 48,15 msec per render)
+[17:11:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81000 tiles rendered (92,17 msec/tile, 48,16 msec per render)
+[17:11:38] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81100 tiles rendered (92,15 msec/tile, 48,13 msec per render)
+[17:11:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81200 tiles rendered (92,14 msec/tile, 48,14 msec per render)
+[17:11:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81300 tiles rendered (92,13 msec/tile, 48,11 msec per render)
+[17:12:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81400 tiles rendered (92,14 msec/tile, 48,14 msec per render)
+[17:12:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81500 tiles rendered (92,16 msec/tile, 48,17 msec per render)
+[17:12:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81600 tiles rendered (92,12 msec/tile, 48,14 msec per render)
+[17:12:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81700 tiles rendered (92,10 msec/tile, 48,13 msec per render)
+[17:12:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81800 tiles rendered (92,09 msec/tile, 48,12 msec per render)
+[17:12:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 81900 tiles rendered (92,09 msec/tile, 48,14 msec per render)
+[17:12:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82000 tiles rendered (92,07 msec/tile, 48,15 msec per render)
+[17:13:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82100 tiles rendered (92,03 msec/tile, 48,11 msec per render)
+[17:13:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82200 tiles rendered (92,00 msec/tile, 48,10 msec per render)
+[17:13:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82300 tiles rendered (92,01 msec/tile, 48,10 msec per render)
+[17:13:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82400 tiles rendered (92,01 msec/tile, 48,12 msec per render)
+[17:13:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82500 tiles rendered (92,00 msec/tile, 48,13 msec per render)
+[17:13:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82600 tiles rendered (91,97 msec/tile, 48,10 msec per render)
+[17:13:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82700 tiles rendered (91,93 msec/tile, 48,07 msec per render)
+[17:13:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82800 tiles rendered (91,93 msec/tile, 48,08 msec per render)
+[17:14:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 82900 tiles rendered (91,94 msec/tile, 48,12 msec per render)
+[17:14:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83000 tiles rendered (91,92 msec/tile, 48,10 msec per render)
+[17:14:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83100 tiles rendered (91,89 msec/tile, 48,08 msec per render)
+[17:14:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83200 tiles rendered (91,85 msec/tile, 48,05 msec per render)
+[17:14:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83300 tiles rendered (91,85 msec/tile, 48,06 msec per render)
+[17:14:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83400 tiles rendered (91,86 msec/tile, 48,09 msec per render)
+[17:14:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83500 tiles rendered (91,84 msec/tile, 48,09 msec per render)
+[17:15:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83600 tiles rendered (91,81 msec/tile, 48,08 msec per render)
+[17:15:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83700 tiles rendered (91,76 msec/tile, 48,04 msec per render)
+[17:15:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83800 tiles rendered (91,76 msec/tile, 48,04 msec per render)
+[17:15:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 83900 tiles rendered (91,79 msec/tile, 48,09 msec per render)
+[17:15:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84000 tiles rendered (91,76 msec/tile, 48,07 msec per render)
+[17:15:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84100 tiles rendered (91,74 msec/tile, 48,06 msec per render)
+[17:15:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84200 tiles rendered (91,70 msec/tile, 48,03 msec per render)
+[17:15:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84300 tiles rendered (91,68 msec/tile, 48,01 msec per render)
+[17:16:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84400 tiles rendered (91,71 msec/tile, 48,07 msec per render)
+[17:16:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84500 tiles rendered (91,69 msec/tile, 48,06 msec per render)
+[17:16:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84600 tiles rendered (91,68 msec/tile, 48,06 msec per render)
+[17:16:31] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84700 tiles rendered (91,65 msec/tile, 48,04 msec per render)
+[17:16:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84800 tiles rendered (91,66 msec/tile, 48,07 msec per render)
+[17:16:54] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 84900 tiles rendered (91,67 msec/tile, 48,10 msec per render)
+[17:17:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85000 tiles rendered (91,66 msec/tile, 48,11 msec per render)
+[17:17:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85100 tiles rendered (91,63 msec/tile, 48,07 msec per render)
+[17:17:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85200 tiles rendered (91,61 msec/tile, 48,07 msec per render)
+[17:17:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85300 tiles rendered (91,62 msec/tile, 48,10 msec per render)
+[17:17:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85400 tiles rendered (91,61 msec/tile, 48,09 msec per render)
+[17:17:42] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85500 tiles rendered (91,59 msec/tile, 48,10 msec per render)
+[17:17:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85600 tiles rendered (91,55 msec/tile, 48,07 msec per render)
+[17:17:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85700 tiles rendered (91,56 msec/tile, 48,11 msec per render)
+[17:18:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85800 tiles rendered (91,57 msec/tile, 48,12 msec per render)
+[17:18:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 85900 tiles rendered (91,57 msec/tile, 48,11 msec per render)
+[17:18:23] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86000 tiles rendered (91,53 msec/tile, 48,07 msec per render)
+[17:18:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86100 tiles rendered (91,50 msec/tile, 48,06 msec per render)
+[17:18:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86200 tiles rendered (91,50 msec/tile, 48,07 msec per render)
+[17:18:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86300 tiles rendered (91,51 msec/tile, 48,09 msec per render)
+[17:18:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86400 tiles rendered (91,50 msec/tile, 48,09 msec per render)
+[17:19:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86500 tiles rendered (91,47 msec/tile, 48,07 msec per render)
+[17:19:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86600 tiles rendered (91,47 msec/tile, 48,07 msec per render)
+[17:19:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86700 tiles rendered (91,49 msec/tile, 48,11 msec per render)
+[17:19:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86800 tiles rendered (91,45 msec/tile, 48,08 msec per render)
+[17:19:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 86900 tiles rendered (91,42 msec/tile, 48,06 msec per render)
+[17:19:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87000 tiles rendered (91,40 msec/tile, 48,05 msec per render)
+[17:19:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87100 tiles rendered (91,42 msec/tile, 48,07 msec per render)
+[17:20:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87200 tiles rendered (91,42 msec/tile, 48,08 msec per render)
+[17:20:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87300 tiles rendered (91,40 msec/tile, 48,07 msec per render)
+[17:20:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87400 tiles rendered (91,37 msec/tile, 48,05 msec per render)
+[17:20:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87500 tiles rendered (91,40 msec/tile, 48,09 msec per render)
+[17:20:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87600 tiles rendered (91,41 msec/tile, 48,11 msec per render)
+[17:20:47] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87700 tiles rendered (91,38 msec/tile, 48,09 msec per render)
+[17:20:53] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87800 tiles rendered (91,35 msec/tile, 48,07 msec per render)
+[17:21:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 87900 tiles rendered (91,37 msec/tile, 48,11 msec per render)
+[17:21:15] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88000 tiles rendered (91,38 msec/tile, 48,12 msec per render)
+[17:21:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88100 tiles rendered (91,36 msec/tile, 48,11 msec per render)
+[17:21:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88200 tiles rendered (91,34 msec/tile, 48,09 msec per render)
+[17:21:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88300 tiles rendered (91,35 msec/tile, 48,13 msec per render)
+[17:21:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88400 tiles rendered (91,37 msec/tile, 48,16 msec per render)
+[17:21:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88500 tiles rendered (91,33 msec/tile, 48,12 msec per render)
+[17:22:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88600 tiles rendered (91,30 msec/tile, 48,10 msec per render)
+[17:22:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88700 tiles rendered (91,30 msec/tile, 48,13 msec per render)
+[17:22:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88800 tiles rendered (91,31 msec/tile, 48,15 msec per render)
+[17:22:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 88900 tiles rendered (91,29 msec/tile, 48,14 msec per render)
+[17:22:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89000 tiles rendered (91,27 msec/tile, 48,12 msec per render)
+[17:22:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89100 tiles rendered (91,26 msec/tile, 48,13 msec per render)
+[17:22:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89200 tiles rendered (91,27 msec/tile, 48,16 msec per render)
+[17:23:04] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89300 tiles rendered (91,27 msec/tile, 48,16 msec per render)
+[17:23:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89400 tiles rendered (91,23 msec/tile, 48,14 msec per render)
+[17:23:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89500 tiles rendered (91,22 msec/tile, 48,13 msec per render)
+[17:23:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89600 tiles rendered (91,22 msec/tile, 48,16 msec per render)
+[17:23:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89700 tiles rendered (91,22 msec/tile, 48,16 msec per render)
+[17:23:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89800 tiles rendered (91,19 msec/tile, 48,14 msec per render)
+[17:23:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 89900 tiles rendered (91,16 msec/tile, 48,13 msec per render)
+[17:24:00] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90000 tiles rendered (91,18 msec/tile, 48,18 msec per render)
+[17:24:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90100 tiles rendered (91,17 msec/tile, 48,17 msec per render)
+[17:24:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90200 tiles rendered (91,18 msec/tile, 48,20 msec per render)
+[17:24:25] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90300 tiles rendered (91,15 msec/tile, 48,17 msec per render)
+[17:24:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90400 tiles rendered (91,17 msec/tile, 48,22 msec per render)
+[17:24:44] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90500 tiles rendered (91,16 msec/tile, 48,22 msec per render)
+[17:24:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90600 tiles rendered (91,13 msec/tile, 48,20 msec per render)
+[17:24:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90700 tiles rendered (91,10 msec/tile, 48,18 msec per render)
+[17:25:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90800 tiles rendered (91,11 msec/tile, 48,21 msec per render)
+[17:25:17] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 90900 tiles rendered (91,12 msec/tile, 48,22 msec per render)
+[17:25:25] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91000 tiles rendered (91,10 msec/tile, 48,21 msec per render)
+[17:25:32] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91100 tiles rendered (91,08 msec/tile, 48,20 msec per render)
+[17:25:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91200 tiles rendered (91,06 msec/tile, 48,20 msec per render)
+[17:25:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91300 tiles rendered (91,09 msec/tile, 48,25 msec per render)
+[17:25:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91400 tiles rendered (91,07 msec/tile, 48,23 msec per render)
+[17:26:07] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91500 tiles rendered (91,06 msec/tile, 48,21 msec per render)
+[17:26:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91600 tiles rendered (91,03 msec/tile, 48,20 msec per render)
+[17:26:24] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91700 tiles rendered (91,05 msec/tile, 48,25 msec per render)
+[17:26:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91800 tiles rendered (91,05 msec/tile, 48,27 msec per render)
+[17:26:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 91900 tiles rendered (91,03 msec/tile, 48,24 msec per render)
+[17:26:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92000 tiles rendered (91,00 msec/tile, 48,20 msec per render)
+[17:26:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92100 tiles rendered (91,00 msec/tile, 48,22 msec per render)
+[17:27:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92200 tiles rendered (91,01 msec/tile, 48,25 msec per render)
+[17:27:15] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92300 tiles rendered (91,01 msec/tile, 48,26 msec per render)
+[17:27:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92400 tiles rendered (90,98 msec/tile, 48,23 msec per render)
+[17:27:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92500 tiles rendered (90,97 msec/tile, 48,26 msec per render)
+[17:27:41] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92600 tiles rendered (91,00 msec/tile, 48,31 msec per render)
+[17:27:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92700 tiles rendered (90,99 msec/tile, 48,31 msec per render)
+[17:27:56] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92800 tiles rendered (90,95 msec/tile, 48,28 msec per render)
+[17:28:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 92900 tiles rendered (90,92 msec/tile, 48,24 msec per render)
+[17:28:13] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93000 tiles rendered (90,94 msec/tile, 48,29 msec per render)
+[17:28:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93100 tiles rendered (90,94 msec/tile, 48,30 msec per render)
+[17:28:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93200 tiles rendered (90,92 msec/tile, 48,30 msec per render)
+[17:28:36] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93300 tiles rendered (90,89 msec/tile, 48,27 msec per render)
+[17:28:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93400 tiles rendered (90,90 msec/tile, 48,30 msec per render)
+[17:28:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93500 tiles rendered (90,92 msec/tile, 48,34 msec per render)
+[17:29:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93600 tiles rendered (90,90 msec/tile, 48,32 msec per render)
+[17:29:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93700 tiles rendered (90,87 msec/tile, 48,29 msec per render)
+[17:29:19] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93800 tiles rendered (90,86 msec/tile, 48,30 msec per render)
+[17:29:30] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 93900 tiles rendered (90,88 msec/tile, 48,33 msec per render)
+[17:29:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94000 tiles rendered (90,86 msec/tile, 48,30 msec per render)
+[17:29:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94100 tiles rendered (90,83 msec/tile, 48,28 msec per render)
+[17:29:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94200 tiles rendered (90,79 msec/tile, 48,25 msec per render)
+[17:30:00] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94300 tiles rendered (90,81 msec/tile, 48,30 msec per render)
+[17:30:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94400 tiles rendered (90,81 msec/tile, 48,29 msec per render)
+[17:30:15] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94500 tiles rendered (90,77 msec/tile, 48,25 msec per render)
+[17:30:20] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94600 tiles rendered (90,74 msec/tile, 48,21 msec per render)
+[17:30:29] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94700 tiles rendered (90,73 msec/tile, 48,22 msec per render)
+[17:30:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94800 tiles rendered (90,75 msec/tile, 48,25 msec per render)
+[17:30:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 94900 tiles rendered (90,71 msec/tile, 48,20 msec per render)
+[17:30:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95000 tiles rendered (90,68 msec/tile, 48,17 msec per render)
+[17:30:59] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95100 tiles rendered (90,66 msec/tile, 48,16 msec per render)
+[17:31:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95200 tiles rendered (90,67 msec/tile, 48,18 msec per render)
+[17:31:16] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95300 tiles rendered (90,65 msec/tile, 48,15 msec per render)
+[17:31:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95400 tiles rendered (90,62 msec/tile, 48,11 msec per render)
+[17:31:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95500 tiles rendered (90,58 msec/tile, 48,07 msec per render)
+[17:31:40] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95600 tiles rendered (90,60 msec/tile, 48,11 msec per render)
+[17:31:49] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95700 tiles rendered (90,60 msec/tile, 48,10 msec per render)
+[17:31:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95800 tiles rendered (90,57 msec/tile, 48,07 msec per render)
+[17:32:01] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 95900 tiles rendered (90,54 msec/tile, 48,04 msec per render)
+[17:32:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 96000 tiles rendered (90,53 msec/tile, 48,05 msec per render)
