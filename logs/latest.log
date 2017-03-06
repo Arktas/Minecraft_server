@@ -1,127 +1,71 @@
-[21:36:04] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[21:36:04] [Server thread/INFO]: Loading properties
-[21:36:04] [Server thread/INFO]: Default game type: SURVIVAL
-[21:36:04] [Server thread/INFO]: Generating keypair
-[21:36:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:36:04] [Server thread/INFO]: Using epoll channel type
-[21:36:04] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[21:36:04] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[21:36:04] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
-[21:36:05] [Server thread/INFO]: [dynmap] Mod Support API available
-[21:36:05] [Server thread/INFO]: Preparing level "world"
-[21:36:05] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[21:36:06] [Server thread/INFO]: Preparing spawn area: 2%
-[21:36:07] [Server thread/INFO]: Preparing spawn area: 82%
-[21:36:07] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[21:36:08] [Server thread/INFO]: Preparing spawn area: 68%
-[21:36:09] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[21:36:09] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[21:36:09] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[21:36:09] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[21:36:09] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[21:36:10] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[21:36:10] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[21:36:10] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[21:36:10] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[21:36:10] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
-[21:36:10] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[21:36:10] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[21:36:11] [Server thread/INFO]: [dynmap] Loaded 13 pending tile renders for world 'world'
-[21:36:11] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
-[21:36:11] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[21:36:11] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[21:36:11] [Server thread/INFO]: [dynmap] Enabled
-[21:36:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:36:11] [Server thread/INFO]: Done (5,968s)! For help, type "help" or "?"
-[21:36:12] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[21:36:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 154800 tiles rendered (81,30 msec/tile, 51,82 msec per render)
-[21:36:26] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 154900 tiles rendered (81,30 msec/tile, 40,77 msec per render)
-[21:36:33] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155000 tiles rendered (81,30 msec/tile, 37,79 msec per render)
-[21:36:39] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155100 tiles rendered (81,28 msec/tile, 35,88 msec per render)
-[21:36:45] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155200 tiles rendered (81,27 msec/tile, 34,77 msec per render)
-[21:36:51] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155300 tiles rendered (81,25 msec/tile, 34,12 msec per render)
-[21:36:57] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155400 tiles rendered (81,23 msec/tile, 32,72 msec per render)
-[21:37:02] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155500 tiles rendered (81,22 msec/tile, 31,94 msec per render)
-[21:37:08] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155600 tiles rendered (81,20 msec/tile, 31,54 msec per render)
-[21:37:14] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 155700 tiles rendered (81,18 msec/tile, 31,30 msec per render)
-[21:37:19] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[21:37:22] [Server thread/INFO]: Arktas[/192.168.1.1:51785] logged in with entity id 534 at ([world]528.1751463623145, 91.0, -114.35712580268263)
-[21:37:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3590ms behind, skipping 71 tick(s)
-[21:37:29] [User Authenticator #2/INFO]: UUID of player WegPast is 633df833-1d4e-4a36-a973-dc689a137fe2
-[21:37:29] [Server thread/INFO]: WegPast[/89.93.95.146:62402] logged in with entity id 984 at ([world]525.4292249532896, 73.0, -91.58139097131203)
-[21:41:46] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[21:41:46] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[21:41:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2668ms behind, skipping 53 tick(s)
-[21:42:16] [User Authenticator #3/INFO]: UUID of player mimikerry is 873b5cbe-e04a-497a-9ee9-89918239e0b0
-[21:42:16] [Server thread/INFO]: mimikerry[/89.93.95.146:62429] logged in with entity id 8798 at ([world]650.0554075424146, 71.0, -42.373882757675794)
-[21:46:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3021ms behind, skipping 60 tick(s)
-[21:46:16] [Server thread/INFO]: Arktas issued server command: /dynmap cancelrender
-[21:57:38] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[21:57:38] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[22:06:16] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[22:06:16] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[22:06:25] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[22:06:25] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[22:06:57] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[22:06:57] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[22:13:22] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[22:13:22] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[22:29:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:30] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:31] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:34] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:35] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:29:36] [Server thread/WARN]: Skeleton Horse moved wrongly!
-[22:41:26] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[22:41:26] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[22:42:33] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[22:42:33] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[22:44:15] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[22:44:15] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[22:50:28] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[22:50:28] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[22:51:16] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[22:51:16] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[22:56:18] [Server thread/INFO]: mimikerry lost connection: Disconnected
-[22:56:18] [Server thread/INFO]: mimikerry left the game
-[22:59:52] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[22:59:52] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[23:00:45] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[23:00:45] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[23:01:05] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[23:01:05] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[23:01:17] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[23:01:17] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[23:09:25] [Server thread/INFO]: WegPast lost connection: Disconnected
-[23:09:25] [Server thread/INFO]: WegPast left the game
-[23:09:47] [Server thread/INFO]: Arktas lost connection: Disconnected
-[23:09:47] [Server thread/INFO]: Arktas left the game
+[12:14:07] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[12:14:07] [Server thread/INFO]: Loading properties
+[12:14:07] [Server thread/INFO]: Default game type: SURVIVAL
+[12:14:07] [Server thread/INFO]: Generating keypair
+[12:14:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:14:08] [Server thread/INFO]: Using epoll channel type
+[12:14:08] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[12:14:08] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[12:14:08] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
+[12:14:08] [Server thread/INFO]: [dynmap] Mod Support API available
+[12:14:08] [Server thread/INFO]: Preparing level "world"
+[12:14:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
+[12:14:10] [Server thread/INFO]: Preparing spawn area: 12%
+[12:14:11] [Server thread/INFO]: Preparing spawn area: 81%
+[12:14:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
+[12:14:12] [Server thread/INFO]: Preparing spawn area: 86%
+[12:14:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
+[12:14:13] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[12:14:13] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[12:14:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[12:14:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[12:14:13] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[12:14:14] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
+[12:14:14] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 15 pending tile renders for world 'world'
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[12:14:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[12:14:14] [Server thread/INFO]: [dynmap] Enabled
+[12:14:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:14:14] [Server thread/INFO]: Done (5,901s)! For help, type "help" or "?"
+[12:14:16] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[12:14:43] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[12:14:44] [Server thread/INFO]: Arktas[/192.168.1.1:51082] logged in with entity id 491 at ([world]875.2084306150292, 72.0, -74.91630992415064)
+[12:15:49] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[12:15:49] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[13:48:14] [Server thread/INFO]: Arktas lost connection: Disconnected
+[13:48:14] [Server thread/INFO]: Arktas left the game
+[15:13:07] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[15:13:07] [Server thread/INFO]: Arktas[/192.168.1.1:51236] logged in with entity id 105753 at ([world]226.3531532998282, 6.0, -12.849862712313877)
+[15:28:45] [Server thread/INFO]: Arktas issued server command: /spawn
+[15:28:51] [Server thread/INFO]: Arktas issued server command: /spawn
+[15:28:59] [Server thread/INFO]: Arktas issued server command: /spawn Arktas
+[15:29:03] [Server thread/INFO]: Arktas issued server command: /help
+[15:33:55] [User Authenticator #3/INFO]: UUID of player Ermeena is 2d27b1a1-73df-4878-912e-65276f518979
+[15:33:56] [Server thread/INFO]: Ermeena[/192.168.1.1:51699] logged in with entity id 138280 at ([world]-470.99207525530267, 62.07326432466507, -2438.9208984303777)
+[15:34:28] [Server thread/INFO]: Arktas issued server command: /tp Arktas Ermeena
+[15:34:28] [Server thread/INFO]: [Arktas: Teleported Arktas to Ermeena]
+[15:34:40] [Server thread/INFO]: Ermeena lost connection: Disconnected
+[15:34:40] [Server thread/INFO]: Ermeena left the game
+[15:35:19] [Server thread/INFO]: Arktas issued server command: /tp Arktas 411 64 10
+[15:35:19] [Server thread/INFO]: [Arktas: Teleported Arktas to 411.5, 64.0, 10.5]
+[15:43:11] [Server thread/INFO]: Arktas lost connection: Disconnected
+[15:43:11] [Server thread/INFO]: Arktas left the game
+[18:16:57] [User Authenticator #4/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[18:16:57] [Server thread/INFO]: Arktas[/192.168.1.1:51867] logged in with entity id 143505 at ([world]538.9334333517033, 52.0, -117.98103900486586)
+[18:44:56] [Server thread/WARN]: Horse moved wrongly!
+[18:45:36] [Server thread/WARN]: Horse moved wrongly!
+[18:46:04] [Server thread/WARN]: Horse moved wrongly!
+[18:51:36] [Server thread/WARN]: Horse moved wrongly!
+[18:55:32] [Server thread/WARN]: Horse moved wrongly!
+[18:55:32] [Server thread/WARN]: Horse moved wrongly!
+[18:59:43] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
+[18:59:43] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
+[19:00:19] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
+[19:00:19] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
+[19:10:05] [Server thread/INFO]: Arktas lost connection: Disconnected
+[19:10:05] [Server thread/INFO]: Arktas left the game
