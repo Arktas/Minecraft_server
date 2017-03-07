@@ -1,71 +1,39 @@
-[12:14:07] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[12:14:07] [Server thread/INFO]: Loading properties
-[12:14:07] [Server thread/INFO]: Default game type: SURVIVAL
-[12:14:07] [Server thread/INFO]: Generating keypair
-[12:14:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:14:08] [Server thread/INFO]: Using epoll channel type
-[12:14:08] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
-[12:14:08] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[12:14:08] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
-[12:14:08] [Server thread/INFO]: [dynmap] Mod Support API available
-[12:14:08] [Server thread/INFO]: Preparing level "world"
-[12:14:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
-[12:14:10] [Server thread/INFO]: Preparing spawn area: 12%
-[12:14:11] [Server thread/INFO]: Preparing spawn area: 81%
-[12:14:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
-[12:14:12] [Server thread/INFO]: Preparing spawn area: 86%
-[12:14:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
-[12:14:13] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[12:14:13] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[12:14:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[12:14:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[12:14:13] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[12:14:14] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
-[12:14:14] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 15 pending tile renders for world 'world'
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[12:14:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[12:14:14] [Server thread/INFO]: [dynmap] Enabled
-[12:14:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:14:14] [Server thread/INFO]: Done (5,901s)! For help, type "help" or "?"
-[12:14:16] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[12:14:43] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[12:14:44] [Server thread/INFO]: Arktas[/192.168.1.1:51082] logged in with entity id 491 at ([world]875.2084306150292, 72.0, -74.91630992415064)
-[12:15:49] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[12:15:49] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[13:48:14] [Server thread/INFO]: Arktas lost connection: Disconnected
-[13:48:14] [Server thread/INFO]: Arktas left the game
-[15:13:07] [User Authenticator #2/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[15:13:07] [Server thread/INFO]: Arktas[/192.168.1.1:51236] logged in with entity id 105753 at ([world]226.3531532998282, 6.0, -12.849862712313877)
-[15:28:45] [Server thread/INFO]: Arktas issued server command: /spawn
-[15:28:51] [Server thread/INFO]: Arktas issued server command: /spawn
-[15:28:59] [Server thread/INFO]: Arktas issued server command: /spawn Arktas
-[15:29:03] [Server thread/INFO]: Arktas issued server command: /help
-[15:33:55] [User Authenticator #3/INFO]: UUID of player Ermeena is 2d27b1a1-73df-4878-912e-65276f518979
-[15:33:56] [Server thread/INFO]: Ermeena[/192.168.1.1:51699] logged in with entity id 138280 at ([world]-470.99207525530267, 62.07326432466507, -2438.9208984303777)
-[15:34:28] [Server thread/INFO]: Arktas issued server command: /tp Arktas Ermeena
-[15:34:28] [Server thread/INFO]: [Arktas: Teleported Arktas to Ermeena]
-[15:34:40] [Server thread/INFO]: Ermeena lost connection: Disconnected
-[15:34:40] [Server thread/INFO]: Ermeena left the game
-[15:35:19] [Server thread/INFO]: Arktas issued server command: /tp Arktas 411 64 10
-[15:35:19] [Server thread/INFO]: [Arktas: Teleported Arktas to 411.5, 64.0, 10.5]
-[15:43:11] [Server thread/INFO]: Arktas lost connection: Disconnected
-[15:43:11] [Server thread/INFO]: Arktas left the game
-[18:16:57] [User Authenticator #4/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
-[18:16:57] [Server thread/INFO]: Arktas[/192.168.1.1:51867] logged in with entity id 143505 at ([world]538.9334333517033, 52.0, -117.98103900486586)
-[18:44:56] [Server thread/WARN]: Horse moved wrongly!
-[18:45:36] [Server thread/WARN]: Horse moved wrongly!
-[18:46:04] [Server thread/WARN]: Horse moved wrongly!
-[18:51:36] [Server thread/WARN]: Horse moved wrongly!
-[18:55:32] [Server thread/WARN]: Horse moved wrongly!
-[18:55:32] [Server thread/WARN]: Horse moved wrongly!
-[18:59:43] [Server thread/INFO]: Arktas issued server command: /gamemode 0 Arktas
-[18:59:43] [Server thread/INFO]: [Arktas: Set own game mode to Survival Mode]
-[19:00:19] [Server thread/INFO]: Arktas issued server command: /gamemode 1 Arktas
-[19:00:19] [Server thread/INFO]: [Arktas: Set own game mode to Creative Mode]
-[19:10:05] [Server thread/INFO]: Arktas lost connection: Disconnected
-[19:10:05] [Server thread/INFO]: Arktas left the game
+[11:06:47] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[11:06:47] [Server thread/INFO]: Loading properties
+[11:06:47] [Server thread/INFO]: Default game type: SURVIVAL
+[11:06:47] [Server thread/INFO]: Generating keypair
+[11:06:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:06:47] [Server thread/INFO]: Using epoll channel type
+[11:06:48] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3c48711 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[11:06:48] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[11:06:48] [Server thread/INFO]: [dynmap] version=git-Bukkit-3c48711 (MC: 1.11.2)
+[11:06:48] [Server thread/INFO]: [dynmap] Mod Support API available
+[11:06:48] [Server thread/INFO]: Preparing level "world"
+[11:06:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6661009018925932655)
+[11:06:50] [Server thread/INFO]: Preparing spawn area: 5%
+[11:06:51] [Server thread/INFO]: Preparing spawn area: 73%
+[11:06:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6661009018925932655)
+[11:06:52] [Server thread/INFO]: Preparing spawn area: 68%
+[11:06:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6661009018925932655)
+[11:06:53] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[11:06:53] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[11:06:53] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[11:06:53] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[11:06:53] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[11:06:54] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:25570
+[11:06:54] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 15 pending tile renders for world 'world'
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[11:06:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[11:06:54] [Server thread/INFO]: [dynmap] Enabled
+[11:06:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:06:54] [Server thread/INFO]: Done (6,258s)! For help, type "help" or "?"
+[11:06:56] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:07:18] [User Authenticator #1/INFO]: UUID of player Arktas is c3b7e6f0-fb97-454e-9686-5e86fedc5e63
+[11:07:19] [Server thread/INFO]: Arktas[/192.168.1.1:50052] logged in with entity id 381 at ([world]548.3050865785548, 69.0, -55.71941444526096)
+[13:50:22] [Server thread/INFO]: Arktas lost connection: Disconnected
+[13:50:22] [Server thread/INFO]: Arktas left the game
